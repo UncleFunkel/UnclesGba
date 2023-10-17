@@ -1,3 +1,7 @@
+NOTE
+=====
+This is a fork of the OG GBA.js project
+
 GBA.js
 ======
 **Version 1.1-git — Copyright © 2012 – 2013 Jeffrey Pfau**
